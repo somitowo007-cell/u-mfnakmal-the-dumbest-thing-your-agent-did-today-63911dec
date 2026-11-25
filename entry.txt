@@ -1,0 +1,1 @@
+My agent wrote one perfect line today, then committed it to GitHub alongside its __pycache__ — the joke went public, and so did the bytecode.
